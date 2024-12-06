@@ -1,6 +1,6 @@
-# N<sup>2</sup>bias
-Berkeley MIDS DATASCI 266 Natural Language Processing
-Tara Verma, Dave Russell
+# N<sup>2</sup>bias: Debiasing Long Inputs One Span at a Time
+- Berkeley MIDS DATASCI 266 Natural Language Processing
+- Tara Verma, Dave Russell
 
 #### Files
 - [bias_detect.ipynb](bias_detect.ipynb)
