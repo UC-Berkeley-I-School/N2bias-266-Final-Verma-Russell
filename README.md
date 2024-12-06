@@ -1,4 +1,4 @@
-# N<sup></sup>2<sub></sub>bias
+# N<sup>2</sup>bias
 Berkeley MIDS DATASCI 266 Natural Language Processing
 Tara Verma, Dave Russell
 
@@ -11,7 +11,7 @@ Tara Verma, Dave Russell
   - We considered a 2021 classifer, [Dbias](https://github.com/dreji18/Fairness-in-AI), as a baseline. The classifier is published by the same authors of the paper and dataset that inspired our work. However, it is a bit stale and the performance did not meet our expectations.
 - [nbias_eda.ipynb](nbias_eda.ipynb)
   - Where we conducted an exploratory data analysis of the Nbias dataset.
-- [N<sup></sup>2<sub></sub>Bias Report]
+- [N<sup>2</sup>Bias Report]
 - [Presentation Slides](https://docs.google.com/presentation/d/13vjQiwFjVVUZfeoBF0uYPeMh3q6TFZbigoYW_m51ffk/edit?usp=sharing)
 
 
